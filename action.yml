@@ -1,6 +1,6 @@
 # action.yml
 name: Hello World wechuli's
-description: 'Greet someone and record the time'
+description: "Greet someone and record the time but has an apostrohe's this is just a change"
 inputs:
   who-to-greet:  # id of input
     description: 'Who to greet'
